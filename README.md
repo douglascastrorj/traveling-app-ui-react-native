@@ -1,5 +1,6 @@
 # traveling-app-ui-react-native
 
-![WelcomeScreen](./demo/welcone.png)
-![HomeScreen](./demo/home.png)
-![DestinationScreen](./demo/destination.png)
+
+| Welcome Screen | Home Screen | Destination Screen |
+|:----------:|:----------:|:----------:|
+| ![WelcomeScreen](./demo/welcome.png) | ![HomeScreen](./demo/home.png) | ![DestinationScreen](./demo/destination.png) |
